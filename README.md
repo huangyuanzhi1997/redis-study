@@ -36,11 +36,19 @@ Remote Dictionary Server（Redis)）是一个开源的使用 ANSI C 语言编写
 
 ## Redis 的基本使用
 
-### 前台启动
+### 启动 Redis
+
+#### 前台启动
 
 
 
-### 后台启动
+#### 后台启动
+
+
+
+### 关闭 Redis
+
+
 
 ## Redis 的五种基本数据类型
 
