@@ -40,10 +40,12 @@ Remote Dictionary Server（Redis)）是一个开源的使用 ANSI C 语言编写
 
 #### 前台启动
 
+Redis 应用以前台的方式启动，不能退出当前窗口， 退出窗口，应用终止。
 
 
 #### 后台启动
 
+Redis 应用以后台的方式启动，关闭窗口后 Redis 进程依然存在。
 
 
 ### 关闭 Redis
